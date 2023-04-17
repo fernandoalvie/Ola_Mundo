@@ -1,2 +1,4 @@
 # Ola_Mundo
- primeiro_reporitorio_no_github
+Primeiro repositorio de git e github
+
+Repositorio criado durante a aula ao vivo
